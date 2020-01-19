@@ -1,0 +1,22 @@
+{
+  "name": "atb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronge-0716/ATB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronge-0716/ATB/issues"
+  },
+  "homepage": "https://github.com/ronge-0716/ATB#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
